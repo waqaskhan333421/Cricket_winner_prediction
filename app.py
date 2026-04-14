@@ -58,7 +58,7 @@ df = load_data()
 model = load_model()
 
 # Header
-st.title("🏏 Enhanced ODI Match Insights & Prediction")
+st.title("🏏 ODI Match Insights & Prediction")
 st.markdown("---")
 
 # --- SECTION 1: PREDICTOR ---
